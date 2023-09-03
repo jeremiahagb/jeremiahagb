@@ -6,10 +6,28 @@
   - [Identifying network vulnerabilities in Nmap and Wireshark](https://github.com/jeremiahagb/Wireshark-NmapLab)
 - <b>Forensic Investigation & Analysis</b>
   - [Collected forensic evidence from deleted files and artifacts using Autopsy](https://github.com/jeremiahagb/Forensic-Investigation)
+ 
+<h2> Certifications:</h2>
+
+- <b>CompTIA</b>
+  - [CompTIA Security+](https://drive.google.com/file/d/1s3yvt77TC3kf1EKX2DwGB32VmJYPrO1t/view?usp=drive_link)
+  - [CompTIA Network+](https://drive.google.com/file/d/1Vej3_e-CiFvtxcKB2mIi7CZA9Kf-o_XF/view?usp=drive_link)
+  - [CompTIA A+](https://drive.google.com/file/d/1HFtTbMu1skVAkEFQ12OVkD1m4pupepEl/view?usp=drive_link)
+  - [CompTIA IT Operations Specialist](https://drive.google.com/file/d/17XBwN_Ls6xp2dzF_Z5B6YYUXfU7JWsJb/view?usp=drive_link)
+  - [CompTIA Secure Infrastructure Specialist](https://drive.google.com/file/d/1-f-JU8BCKbXN4RPX6bjpy9uYThSNcTDM/view?usp=drive_link)
+- <b>ISC2</b>
+  - [Certified in Cybersecurity](https://drive.google.com/file/d/1bxEawvlC48MdB71CtvtG2A-ffOvpqQG3/view?usp=drive_link)
+- <b>Axelos</b>
+  - [ITIL v4 Foundations](https://drive.google.com/file/d/18mWRx-sTNttKRv8bvHKs_y4jITu9k1V-/view?usp=drive_link)
 
 
 
 
+
+
+
+
+ 
 
 
 <h2> 🤳 Connect with me:</h2>
