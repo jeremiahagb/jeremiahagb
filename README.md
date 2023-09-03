@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Identifying network vulnerabilities in Nmap and Wireshark</b>
-  - [https://github.com/jeremiahagb/Wireshark-NmapLab/tree/main)
+- <b>Network Scanning</b>
+  - [Identifying network vulnerabilities in Nmap and Wireshark](https://github.com/jeremiahagb/Wireshark-NmapLab)
 
 
 
@@ -16,7 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/jeremiah-phillips/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jeremiahagb/jeremiahagb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
