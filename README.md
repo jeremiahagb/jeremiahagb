@@ -7,7 +7,7 @@
 - <b>Forensic Investigation & Analysis</b>
   - [Collected forensic evidence from deleted files and artifacts using Autopsy](https://github.com/jeremiahagb/Forensic-Investigation)
  
-<h2> Certifications:</h2>
+<h2>📃 Certifications:</h2>
 
 - <b>CompTIA</b>
   - [CompTIA Security+](https://drive.google.com/file/d/1s3yvt77TC3kf1EKX2DwGB32VmJYPrO1t/view?usp=drive_link)
