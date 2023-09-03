@@ -2,10 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network Scanning</b>
-  - [Identifying network vulnerabilities in Nmap and Wireshark](https://github.com/jeremiahagb/Wireshark-NmapLab)
-- <b>Forensic Investigation & Analysis</b>
-  - [Collected forensic evidence from deleted files and artifacts using Autopsy](https://github.com/jeremiahagb/Forensic-Investigation)
+- 
  
 <h2>📃 Certifications:</h2>
 
