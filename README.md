@@ -4,6 +4,11 @@
 
 - <b>Network Scanning</b>
   - [Identifying network vulnerabilities in Nmap and Wireshark](https://github.com/jeremiahagb/Wireshark-NmapLab)
+- <b>Forensic Investigation & Analysis</b>
+  - [Collected forensic evidence from deleted files and artifacts using Autopsy](https://github.com/jeremiahagb/Forensic-Investigation)
+
+
+
 
 
 
