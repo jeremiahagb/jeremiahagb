@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- 
- 
+<b>Network Scanning</b>
+  - [Conducted a network vulnerability scan with Nessus](https://github.com/jeremiahagb/nessus-scan)
+
+
 <h2>📃 Certifications:</h2>
 
 - <b>CompTIA</b>
