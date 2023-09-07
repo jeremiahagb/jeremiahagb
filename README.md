@@ -6,7 +6,7 @@
   - [Conducted a network vulnerability scan with Nessus](https://github.com/jeremiahagb/nessus-scan)
 
 <b>Email Analysis</b>
-  - [Conducted an email investigation with open source tools]()
+  - [Conducted an email investigation with open source tools](https://github.com/jeremiahagb/email-analysis)
 
 
 <h2>📃 Certifications:</h2>
